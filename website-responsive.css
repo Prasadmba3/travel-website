@@ -444,12 +444,12 @@ transition: filter 0.4s ease, transform 0.4s ease; */
   }
 }
 @media (max-width:1040px){
-    #menu-icon{
+/*     #menu-icon{
       display: block;
     }
     .sticky #menu-icon{
       color:var(--text-color)
-    }
+    } */
     .home{
       height:88vh;
     }
